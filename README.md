@@ -48,46 +48,16 @@ Courses
 - [Algorithms: Design and Analysis 1 - Stanford University](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V)
 - [Algorithms: Design and Analysis 2 - Stanford University](https://www.youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6)
 - [COS 226 Algorithms, Youtube, Princeton - by Robert Sedgewick and Kevin Wayne](https://www.youtube.com/watch?v=1QZDe28peZk&list=PLRdD1c6QbAqJn0606RlOR6T3yUqFWKwmX&index=1)
-- [CSE 331 Introduction to Algorithm Design and Analysis, SUNY University at Buffalo, NY - Fall 2017](http://www-student.cse.buffalo.edu/~atri/cse331/fall17/index.html) ([Lectures](https://www.youtube.com/playlist?list=PLZBCR-EGqNpoiHeO17FlLADJ38Kb3EiPU)) ([Homework Walkthroughs](https://www.youtube.com/playlist?list=PLZBCR-EGqNpoVyQCIUDHiXnL-zdFD_ixk))
-- [CSE 373 - Analysis of Algorithms, Stony Brook - Prof Skiena](http://www.cs.sunysb.edu/~algorith/video-lectures/)
-- [COP 3530 Data Structures and Algorithms, Prof Sahni, UFL](http://www.cise.ufl.edu/~sahni/cop3530/) ([Videos](http://www.cise.ufl.edu/academics/courses/preview/cop3530sahni/))
-- [CS225 - Data Structures - University of Illinois at Urbana-Champaign](https://chara.cs.illinois.edu/cs225/lectures/)
-- [CS2 - Data Structures and Algorithms - Richard Buckland - UNSW](https://www.youtube.com/playlist?list=PLE621E25B3BF8B9D1)
-- [Data Structures - Pepperdine University](https://itunes.apple.com/us/course/data-structures/id546468797)
 - [CS 161 - Design and Analysis of Algorithms, Prof. Tim Roughgarden, Stanford University](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
-- [6.046J - Introduction to Algorithms - Fall 2005, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/)
 - [6.046 - Design and Analysis of Algorithms, Spring 2015 - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/)
-- [CS 473 - Algorithms - University of Illinois at Urbana-Champaign](https://courses.engr.illinois.edu/cs473/sp2016/lectures.html) ([Notes - Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/))
-- [COMP300E - Programming Challenges, Prof Skiena, Hong Kong University of Science and Technology - 2009](https://www.youtube.com/playlist?list=PL07B3F10B48592010)
-- [16s-4102 - Algorithms, University of Virginia](http://www.cs.virginia.edu/~shelat/16s-4102/) ([Youtube](https://www.youtube.com/channel/UCxXYk53cSZof2bR_Ax0uJYQ/videos))
-- [CS 170 Algorithms - UCBerkeley](https://cs170.org/) [Fall 2018, Youtube](https://www.youtube.com/watch?v=fd5P-8IQwMY&list=PLkFD6_40KJIx8lWWbE-Uk069aZ1R-W-VU&index=2&t=0s) [Fall 2018,Bilibili](https://www.bilibili.com/video/av43955743/?p=1) [2013 Bilibili](https://www.bilibili.com/video/av26670685/)
-- [ECS 122A - Algorithm Design and Analysis, UC Davis](http://web.cs.ucdavis.edu/~gusfield/cs122f10/videolist.html)
 - [CSEP 521 - Applied Algorithms, Winter 2013 - University of Washington](https://courses.cs.washington.edu/courses/csep521/13wi/) ([Videos](https://courses.cs.washington.edu/courses/csep521/13wi/video/))
-- [Data Structures And Algorithms - IIT Delhi](https://nptel.ac.in/courses/106102064/)
-- [Design and Analysis of Algorithms - IIT Bombay](https://nptel.ac.in/courses/106101060/)
-- [Programming, Data Structures and Algorithms - IIT Madras](https://nptel.ac.in/courses/106106127/)
-- [Design and Analysis of Algorithms - IIT Madras](https://nptel.ac.in/courses/106106131/)
-- [Fundamental Algorithms:Design and Analysis - IIT Kharagpur](https://nptel.ac.in/courses/106105157/)
-- [Programming and Data Structure - IIT Kharagpur](https://nptel.ac.in/courses/106105085/)
-- [Programming, Data structures and Algorithms - IIT Madras](https://nptel.ac.in/courses/106106133/)
-- [Programming, Data Structures and Algorithms in Python - IIT Madras](https://nptel.ac.in/courses/106106145/)
-- [Programming and Data structures (PDS) - IIT Madras](https://nptel.ac.in/courses/106106130/)
-- [COP 5536 Advanced Data Structures, Prof Sahni - UFL](http://www.cise.ufl.edu/~sahni/cop5536/index.html) ([Videos](http://www.cise.ufl.edu/academics/courses/preview/cop5536sahni/))
 - [CS 261 - A Second Course in Algorithms, Stanford University](http://theory.stanford.edu/~tim/w16/w16.html) ([Youtube](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJh2yDxlJJjnKswWdoO8gAc))
-- [Informatics 2B - Algorithms, Data Structures and Learning- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2013/inf2b-adsl.htm)
 - [CS 224 - Advanced Algorithms, Harvard University](http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html) ([Lecture Videos](http://people.seas.harvard.edu/~minilek/cs224/fall14/lec.html)) ([Youtube](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf))
-- [CS 6150 - Advanced Algorithms (Fall 2016), University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCp8X9FHOglnLqFjyvqGLftx)
-- [CS 6150 - Advanced Algorithms (Fall 2017), University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCqS9Z419eky9m6gJP7zfhO9)
-- [ECS 222A - Graduate Level Algorithm Design and Analysis, UC Davis](http://web.cs.ucdavis.edu/~gusfield/cs222f07/videolist.html)
 - [6.851 - Advanced Data Structures, MIT](http://courses.csail.mit.edu/6.851/spring14/lectures/) ([MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/lecture-videos/))
 - [6.854 - Advanced Algorithms, MIT](https://www.youtube.com/playlist?list=PL6ogFv-ieghdoGKGg2Bik3Gl1glBTEu8c) ([Prof. Karger lectures](https://www.youtube.com/channel/UCtv9PiQVUDzsT4yl7524DCg/videos))
 - [CS264 Beyond Worst-Case Analysis, Fall 2014 - Tim Roughgarden Lecture](http://theory.stanford.edu/~tim/f14/f14.html) ([Youtube](https://www.youtube.com/playlist?list=PLEGCF-WLh2RL8jsZpaf2tLHa5LotFEt5b))
 - [CS364A Algorithmic Game Theory, Fall 2013 - Tim Roughgarden Lectures](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4)
 - [CS364B Advanced Mechanism Design, Winter 2014 - Tim Roughgarden Lectures](https://www.youtube.com/playlist?list=PLEGCF-WLh2RI77PL4gwLld_OU9Zh3TCX9)
-- [Algorithms - Aduni](http://aduni.org/courses/algorithms/index.php?view=cw)
-- [6.889 - Algorithms for Planar Graphs and Beyond (Fall 2011) MIT](http://courses.csail.mit.edu/6.889/fall11/lectures/)
-- [6.890 Algorithmic Lower Bounds: Fun with Hardness Proofs - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/)
-- [Computer Algorithms - 2 - IIT Kanpur](https://nptel.ac.in/courses/106104019/)
 - [Parallel Algorithm - IIT Kanpur](https://nptel.ac.in/courses/106104120/)
 - [Graph Theory - IISC Bangalore](https://nptel.ac.in/courses/106108054/)
 
@@ -95,12 +65,9 @@ Courses
 
 ### Systems Programming
 
-- [6.033 Computer System Engineering - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2009/video-lectures/)
 - [CS24 Introduction to Computing Systems - California Institute of Technology](http://courses.cms.caltech.edu/cs24/) ([Spring 15 version](http://users.cms.caltech.edu/~donnie/cs24/))
 - [15-213 Introduction to Computer Systems, Fall 2015  - CMU](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&maxResults=150)
-- [CS361 - COMPUTER SYSTEMS - UIC](https://www.cs.uic.edu/CS361fall13)
-- [CS 4400 – Computer Systems   Fall 2016 - UoUtah](https://www.eng.utah.edu/~cs4400/)
-- [Systems - Aduni](http://aduni.org/courses/systems/index.php?view=cw)
+)
 - **Operating Systems**
 	- [CS124 Operating Systems - California Institute of Technology, Fall 2018 - Youtube](https://www.youtube.com/playlist?list=PL3swII2vlVoVbav6FV98pidq6BsTN4u56)
 	- [CS 162 Operating Systems and Systems Programming, Spring 2015 - University of California, Berkeley](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c?sort=titleSorter)
@@ -142,41 +109,15 @@ Courses
 
 ### Database Systems
 
-- [CMPSC 431W Database Management Systems, Fall 2015 - Penn State University](http://www.cse.psu.edu/~wul2/cmpsc431w/) [Lectures - YouTube](https://www.youtube.com/playlist?list=PLstRzn3gXZMdXqAiVJ1NN2CoyXHqma7pQ)
-- [CS121 - Introduction to Relational Database Systems, Fall 2016 - Caltech](http://users.cms.caltech.edu/~donnie/cs121/)
-- [CS 5530 - Database Systems, Spring 2016 - University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCrercQNP9tTsjjPdgRVYvC7)
-- [MOOC - Database Stanford Dbclass](https://www.youtube.com/playlist?list=PL6hGtHedy2Z4EkgY76QOcueU8lAC4o6c3)
 - [CSEP 544, Database Management Systems, Au 2015 - University of Washington](https://www.youtube.com/playlist?list=PLTPQEx-31JXjQYrUKvAjUTWgCYluHGs_L)
-- [Database Design - IIT Madras](https://nptel.ac.in/courses/106106093/)
-- [Fundamentals of Database Systems - IIT Kanpur](https://nptel.ac.in/courses/106104135/)
-- [Principles of Database Management, Bart Baesens](https://www.youtube.com/playlist?list=PLdQddgMBv5zEhlpqdiUcf9aTNEtmESgyl)
-- [FIT9003 Database Systems Design - Monash University](https://itunes.apple.com/us/podcast/fit9003-database-systems-design/id306569364)
 - [15-445 - Introduction to Database Systems, CMU](https://15445.courses.cs.cmu.edu/fall2018/) ([YouTube-2018](https://www.youtube.com/playlist?list=PLSE8ODhjZXja3hgmuwhf89qboV1kOxMx7), [YouTube-2017](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYutVzTeAds8xUt1rcmyT7x))
 - [15-721 - Database Systems, CMU](http://15721.courses.cs.cmu.edu/spring2017) ([YouTube-2017](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYgTIlqf4Dy9KQpQ7kn1Tl0), [YouTube-2016](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbisIGOepfnlbfxeH7TW-8O))
-- [CS122 - Relational Database System Implementation, Winter 2014-2015 - Caltech](http://users.cms.caltech.edu/~donnie/cs122/)
 - [CS 186 - Database Systems, UC Berkeley, Spring 2015](https://sites.google.com/site/cs186spring2015/home/schedule-and-notes) ([Lectures- InfoCoBuild](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs186-spring2015-berkeley.html))
-- [CS 6530 - Graduate-level Database Systems, Fall 2016, University of Utah](https://www.cs.utah.edu/~lifeifei/cs6530/) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PLbuogVdPnkCqwHUcieMrytP453Ep0y6eI))
-- [6.830/6.814 - Database Systems [Fall 2014]](https://www.youtube.com/playlist?list=PLfciLKR3SgqOxCy1TIXXyfTqKzX2enDjK)
-- [Informatics 1 - Data & Analysis 2014/15- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/da.htm)
-- [Database Management Systems, Aduni](http://aduni.org/courses/databases/index.php?view=cw)
-- [D4M - Signal Processing on Databases](https://ocw.mit.edu/resources/res-ll-005-d4m-signal-processing-on-databases-fall-2012/)
-
 
 ------------------------------
 
 ### Software Engineering
 
-- **Object Oriented Design**
-	- [ECE 462 Object-Oriented Programming using C++ and Java - Purdue](https://engineering.purdue.edu/OOSD/F2008/F2008.html)
-	- [Object-oriented Program Design and Software Engineering - Aduni](http://aduni.org/courses/java/index.php?view=cw)
-	- [OOSE - Object-Oriented Software Engineering, Dr. Tim Lethbridge](https://www.youtube.com/playlist?list=PL6iDJCG2nkhfNlig8NY5ePPfGvtQX6yLa)
-	- [Object Oriented Systems Analysis and Design (Systems Analysis and Design in a Changing World)](https://www.youtube.com/playlist?list=PL6XklZATqYx9dj72MKG6wLYjljeB2odra)
-	- [CS 251 - Intermediate Software Design (C++ version) - Vanderbilt University](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp4ZsvD10uXmClGnukcu3Uff)
-	- [OOSE - Software Dev Using UML and Java](https://www.youtube.com/playlist?list=PLJ9pm_Rc9HesnkwKlal_buSIHA-jTZMpO)
-	- [Object-Oriented Analysis and Design - IIT Kharagpur](https://nptel.ac.in/courses/106105153/)
-	- [CS3 - Design in Computing - Richard Buckland UNSW](https://www.youtube.com/course?list=EC0C5D85DBA20E685C)
-	- [Informatics 1 - Object-Oriented Programming 2014/15- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/inf1op.htm)
-	- [Software Engineering with Objects and Components 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/seoc.htm)
 - **Software Engineering**
 	- [Computer Science 169- Software Engineering - Spring 2015 - UCBerkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iCfQHHS7rxlfHFsU4aQW1IF)
 	- [CS 5150 -  Software Engineering, Fall 2014 - Cornell University](http://www.cs.cornell.edu/courses/cs5150/2014fa/materials.html)
@@ -197,19 +138,6 @@ Courses
 	- [CSEP 524 - Parallel Computation - University of Washington](https://courses.cs.washington.edu/courses/csep524/10sp/) ([Videos](https://courses.cs.washington.edu/courses/csep524/10sp/lectures/video.html))
 	- [Parallel Programming Concepts (WT 2013/14) - HPI](https://itunes.apple.com/us/itunes-u/parallel-programming-concepts/id728270905)
 	- [Parallel Programming Concepts (WT 2012/13) - HPI](https://itunes.apple.com/us/itunes-u/parallel-programming-concepts/id597821383)
-- **Mobile Application Development**
-	- [MOOC Programming Mobile Applications for Android Handheld Systems - University of Maryland](https://www.youtube.com/playlist?list=PLkHsKoi6eZnwilGXUc95CqS7Vw4uLLDLG)
-	- [CS 193p - Developing Applications for iOS, Stanford University](https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961)
-	- [CS S-76 Building Mobile Applications - Harvard](http://cs76.tv/2013/summer/)
-	- [CS 251 (2015): Intermediate Software Design](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp7lylj-XC8h1kjatOjbh9ne)
-	- [Android App Development for Beginners Playlist - thenewboston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl)
-	- [Android Application Development Tutorials - thenewboston](https://www.youtube.com/playlist?list=PL2F07DBCDCC01493A)
-	- [MOOC - Developing Android Apps - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnMwH5-FNkErnnq_aSy706S)
-	- [MOOC - Advanced Android App Development - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPmETCT07vnDSiIaUBuyut0X)
-	- [CSSE490 Android Development Rose-Hulman Winter 2010-2011, Dave Fisher](https://www.youtube.com/playlist?list=PLF3EEB647F6B52F03)
-	- [iOS Course, Dave Fisher](https://www.youtube.com/playlist?list=PL96C635E4DCD393A8)
-	- [Developing iPad Applications for Visualization and Insight - Carnegie Mellon University](https://itunes.apple.com/us/course/developing-ipad-applications/id499050344)
-	- [Mobile Computing - IIT Madras](https://nptel.ac.in/courses/106106147/)
 
 ------------------------------
 
@@ -218,21 +146,6 @@ Courses
 - [6.034 Artificial Intelligence, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
 - [15-780 - Graduate Artificial Intelligence, Spring 14, CMU](http://www.cs.cmu.edu/~zkolter/course/15-780-s14/lectures.html)
 - [CSE 592 Applications of Artificial Intelligence, Winter 2003 - University of Washington](https://courses.cs.washington.edu/courses/csep573/03wi/lectures/index.htm)
-- [CS322 - Introduction to Artificial Intelligence, Winter 2012-13 - UBC](http://www.cs.ubc.ca/~mack/CS322/) ([YouTube](https://www.youtube.com/playlist?list=PLDPnGbm0sUmpzvcGvktbz446SLdFbfZVU))
-- [CS 4804: Introduction to Artificial Intelligence, Fall 2016](https://www.youtube.com/playlist?list=PLUenpfvlyoa1iiSbGy9BBewgiXjzxVgBd)
-- [CS 5804: Introduction to Artificial Intelligence, Spring 2015](https://www.youtube.com/playlist?list=PLUenpfvlyoa0PB6_kqJ9WU7m6i6z1RhfJ)
-- [Artificial Intelligence - IIT Kharagpur](https://nptel.ac.in/courses/106105077/)
-- [Artificial Intelligence - IIT Madras](https://nptel.ac.in/courses/106106126/)
-- [Artificial Intelligence(Prof.P.Dasgupta) - IIT Kharagpur](https://nptel.ac.in/courses/106105079/)
-- [Artificial Intelligence: Knowledge Representation and Reasoning - IIT Madras](https://nptel.ac.in/courses/106106140/)
-- [MOOC - Intro to Artificial Intelligence - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPlqMkzr4xyuD6cXTIgPuzgn)
-- [MOOC - Artificial Intelligence for Robotics - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkCSYXw6-a_aAoXVKLDwnHK)
-- [Graduate Course in Artificial Intelligence, Autumn 2012 - University of Washington](https://www.youtube.com/playlist?list=PLbQ3Aya0VERDoDdbMogU9EASJGWris9qG)
-- [Agent-Based Systems 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/abs.htm)
-- [Informatics 2D - Reasoning and Agents 2014/15- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/inf2d.htm)
-- [Artificial Intelligence - Hochschule Ravensburg-Weingarten](https://www.youtube.com/playlist?list=PL39B5D3AFC249556A)
-- [Deductive Databases and Knowledge-Based Systems - Technische Universität Braunschweig, Germany](http://www.ifis.cs.tu-bs.de/teaching/ws-1516/KBS)
-
 --------------
 
 ### Machine Learning
